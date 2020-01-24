@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c430dbe-ab9a-474a-a8d7-16d03272177e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="293" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testbot@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testbot@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1UmqzghtkUNSAqxOSCJjFgrSvla" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TelegaBot/Main" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="untitled" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="untitled" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Covald\PycharmProjects\TelegaBot\Main" />
+      <recent name="C:\Users\Covald\PycharmProjects\untitled" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Covald\PycharmProjects\untitled" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main (1)">
+    <configuration name="Chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TelegaBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TelegaBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TelegaBot/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TelegaBot/Main/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TelegaBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sdfghjkl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TelegaBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sdfghjkl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tesit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TelegaBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tesit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main (1)" />
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.tesit" />
+        <item itemvalue="Python.Chat" />
+        <item itemvalue="Python.sdfghjkl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:testbot@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:testbot@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@179006a7" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Covald\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c430dbe-ab9a-474a-a8d7-16d03272177e" name="Default Changelist" comment="" />
+      <created>1575972383068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575972383068</updated>
+      <workItem from="1575972404789" duration="850000" />
+      <workItem from="1575973349094" duration="975000" />
+      <workItem from="1575974362499" duration="4576000" />
+      <workItem from="1576487988900" duration="419000" />
+      <workItem from="1576488452221" duration="117000" />
+      <workItem from="1576522114985" duration="641000" />
+      <workItem from="1576580404144" duration="41000" />
+      <workItem from="1576581375078" duration="697000" />
+      <workItem from="1576608807747" duration="2182000" />
+      <workItem from="1576613255690" duration="13903000" />
+      <workItem from="1576657348195" duration="14548000" />
+      <workItem from="1576819968163" duration="517000" />
+      <workItem from="1576835725451" duration="6968000" />
+      <workItem from="1577275525257" duration="71000" />
+      <workItem from="1577357297587" duration="1285000" />
+      <workItem from="1577716434091" duration="3128000" />
+      <workItem from="1577722297364" duration="272000" />
+      <workItem from="1577722649543" duration="128000" />
+      <workItem from="1577723038253" duration="2285000" />
+      <workItem from="1577908414364" duration="631000" />
+      <workItem from="1578766553161" duration="150000" />
+      <workItem from="1578891428433" duration="1779000" />
+      <workItem from="1579172135892" duration="1191000" />
+      <workItem from="1579244854203" duration="25602000" />
+      <workItem from="1579364707502" duration="6129000" />
+      <workItem from="1579587188713" duration="5060000" />
+      <workItem from="1579826449318" duration="24248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Deployment" timestamp="1577724077576">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="361" y="70" key="#Deployment/0.0.1536.821@0.0.1536.821" timestamp="1577724077576" />
+    <state x="361" y="70" key="#SQL_Dialects" timestamp="1579828595941">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="361" y="70" key="#SQL_Dialects/0.0.1536.821@0.0.1536.821" timestamp="1579828595941" />
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578891682296">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.821@0.0.1536.821" timestamp="1578891682296" />
+    <state x="498" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579282701965">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="498" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.821@0.0.1536.821" timestamp="1579282701965" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579900117808">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.821@0.0.1536.821" timestamp="1579900117808" />
+    <state x="528" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579899597964">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="528" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.821@0.0.1536.821" timestamp="1579899597964" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1579878927016">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1579878927016" />
+    <state x="603" y="327" width="354" height="166" key="Github.CreateGistDialog" timestamp="1579900338623">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="603" y="327" width="354" height="166" key="Github.CreateGistDialog/0.0.1536.821@0.0.1536.821" timestamp="1579900338623" />
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1579900343806">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.821@0.0.1536.821" timestamp="1579900343806" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1579900343806">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.821@0.0.1536.821" timestamp="1579900343806" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1579900343806">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.821@0.0.1536.821" timestamp="1579900343806" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1579900343806">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.821@0.0.1536.821" timestamp="1579900343806" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1579896767275">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.821@0.0.1536.821" timestamp="1579896767275" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1579896767275">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.821@0.0.1536.821" timestamp="1579896767275" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1579896767275">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.821@0.0.1536.821" timestamp="1579896767275" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1579896767275">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.821@0.0.1536.821" timestamp="1579896767275" />
+    <state width="195" height="457" key="HiddenNamespacesPopup" timestamp="1579282818131">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="195" height="457" key="HiddenNamespacesPopup/0.0.1536.821@0.0.1536.821" timestamp="1579282818131" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1579900651903">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.821@0.0.1536.821" timestamp="1579900651903" />
+    <state width="82" height="441" key="SqlResolveConfigurable" timestamp="1577723276657">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="82" height="441" key="SqlResolveConfigurable/0.0.1536.821@0.0.1536.821" timestamp="1577723276657" />
+    <state width="775" height="417" key="XDebugger.FullValuePopup" timestamp="1579259243214">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="775" height="417" key="XDebugger.FullValuePopup/0.0.1536.821@0.0.1536.821" timestamp="1579259243214" />
+    <state x="330" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579258606133">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="330" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.821@0.0.1536.821" timestamp="1579258606133" />
+    <state x="366" y="159" key="org.jetbrains.idea.perforce.application.P4ConfigConnectionDiagnoseDialog" timestamp="1579900012083">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="366" y="159" key="org.jetbrains.idea.perforce.application.P4ConfigConnectionDiagnoseDialog/0.0.1536.821@0.0.1536.821" timestamp="1579900012083" />
+    <state x="510" y="55" key="refactoring.ChangeSignatureDialog" timestamp="1579277477291">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="510" y="55" key="refactoring.ChangeSignatureDialog/0.0.1536.821@0.0.1536.821" timestamp="1579277477291" />
+    <state x="431" y="142" width="672" height="678" key="search.everywhere.popup" timestamp="1579897560988">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="431" y="142" width="672" height="678" key="search.everywhere.popup/0.0.1536.821@0.0.1536.821" timestamp="1579897560988" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TelegaBot$Main__1_.coverage" NAME="Main (1) Coverage Results" MODIFIED="1579900193905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TelegaBot/Main" />
+    <SUITE FILE_PATH="coverage/untitled$tesit.coverage" NAME="tesit Coverage Results" MODIFIED="1579173093943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$sdfghjkl.coverage" NAME="sdfghjkl Coverage Results" MODIFIED="1579257721632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$User.coverage" NAME="User Coverage Results" MODIFIED="1576659173642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Test.coverage" NAME="Test Coverage Results" MODIFIED="1576622648074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/TelegaBot$tesit.coverage" NAME="tesit Coverage Results" MODIFIED="1579896177142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$TESOV.coverage" NAME="TESOV Coverage Results" MODIFIED="1576659088431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TelegaBot$Main.coverage" NAME="Main Coverage Results" MODIFIED="1579899268593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Main.coverage" NAME="Main Coverage Results" MODIFIED="1579282348397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Chat.coverage" NAME="Chat Coverage Results" MODIFIED="1579281925074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
