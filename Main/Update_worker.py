@@ -33,23 +33,24 @@ class Update_worker:
                 try:
                     current_message = update["message"]
                     chat_id = current_message["chat"]["id"]
+                    username = current_message["from"]["username"]
                     message_date = current_message["date"]
                     try:
                         type_of_message = current_message['entities'][0]['type']
                         if type_of_message == 'bot_command':
                             message_text = current_message['text']
-                            messages.append(Message(type_of_message, chat_id, message_date, message_text))
+                            messages.append(Message(type_of_message, chat_id, message_date, message_text, username))
 
                     except KeyError:
                         try:
                             type_of_message = 'text'
                             message_text = current_message['text']
                             print(message_text)
-                            messages.append(Message(type_of_message, chat_id, message_date, message_text))
+                            messages.append(Message(type_of_message, chat_id, message_date, message_text, username))
                         except KeyError:
                             type_of_message = "Exception"
                             message_text = "Incorrect message, pls use /help to get more information"
-                            messages.append(Message(type_of_message, chat_id, message_date, message_text))
+                            messages.append(Message(type_of_message, chat_id, message_date, message_text, username))
                 except KeyError:
                     print("Ошибка запроса!")
             print("Распарсены сообщения в кол-ве: " + str(len(messages)) + "\n")

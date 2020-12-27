@@ -38,7 +38,17 @@ class Bot:
                        "message.text - " + message.text
                        ])
                 if message.Type == "bot_command" or message.text[0] == '/':
-                    if message.text.startswith("/add"):
+                    if message.text.startswith("/start"):
+                        response_list.append(
+                            Message("response", message.Chat_id, message.date,
+                                    f"""
+Hi {message.username}!
+You can use /now to get time of bot server (+7 GMT) =)
+I read my code and I afraid that's awful =(
+                                    """
+                                    )
+                        )
+                    elif message.text.startswith("/add"):
                         current_text = message.text[5:]
                         num = current_text[:current_text.find(" ")]
                         category = current_text[current_text.find(' ') + 1:]
@@ -87,6 +97,11 @@ class Bot:
                     elif message.text.startswith("/help"):
                         response_list.append(
                             Message("response", message.Chat_id, message.date, "Sorry, now /help is't working :("))
+                    elif message.text.startswith("/now"):
+                        from datetime import datetime
+                        response_list.append(
+                            Message("response", message.Chat_id, message.date, f"Now (+7 GMT) - {datetime.now().time()}")
+                        )
                     else:
                         response_list.append(Message("response", message.Chat_id, message.date,
                                                      "Unknown command, please write /help"))
